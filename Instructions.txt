@@ -1,0 +1,44 @@
+Multi-Cloud Continuous Integration
+Specific instructions for the project
+In this project, the goal is for you to build a Continuous Integration Pipeline that works on multiple Clouds.
+
+Go to 
+GitHub to get the code
+.
+
+Your Tasks
+Launch any Cloud environment and setup the project by forking the sample code. Examples of Cloud environments include 
+AWS CloudShell
+, 
+AWS Cloud9
+, 
+Github Code Spaces
+, 
+Google Cloud Shell
+, or 
+Azure Cloud Shell
+.
+
+Get the project going to install, lint and test via GitHub Actions.
+
+Test making changes on more than one Cloud Development environment.
+
+Create a Demo project in GitHub with a README.md that describes what you did.
+
+Create a Demo Video and reference it in your GitHub Project.
+
+(Optional) Share your portfolio project on Social Media with the hashtag:  #duke-cloud-computing-for-data.
+
+Sample Deliverables
+Demo video. Here is a 
+good example video showing Azure with Github Actions.
+https://www.youtube.com/watch?v=rXXtJpcVems
+
+
+GitHub repo. Here is a 
+complete example of the Github repo
+https://github.com/noahgift/azure-ml-devops
+
+ you can build with the YouTube Video inside.
+
+
